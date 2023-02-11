@@ -36,4 +36,3 @@ if __name__ == "__main__":
 
         json_obj = json.dumps(new_dict1)
         f.write(json_obj)
-        
